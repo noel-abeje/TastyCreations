@@ -18,8 +18,9 @@
         <ImageView
             android:id="@+id/img_dish"
             android:layout_width="match_parent"
-            android:scaleType="centerCrop"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:background="#E91E63"
+            android:scaleType="centerCrop" />
 
 
 
