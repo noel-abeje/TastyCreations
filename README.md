@@ -85,7 +85,7 @@ Login screen to Main Screen
 
 ## Wireframes
 
-<img src="https://github.com/PranaMohanty13/GetFit/blob/main/Befit_part2_walkthrough.gif">
+<img src="walkthrough.gif">
 
 ### [BONUS] Digital Wireframes & Mockups
 
