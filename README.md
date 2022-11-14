@@ -16,9 +16,9 @@ Recipies is an app that has hundreds of recipes from many different categories t
 
 [Evaluation of your app across the following attributes]
 - **Category:** 
-Fitness Social media mobile application
+Food recpe application
 - **Mobile:**
-The app focuses on fitness tracking which could be done using a mobile device or a wearable due to the portability constraints associated with fitness.
+The app focuses on building a database of various recipes accessible from the convenience of a users phone.
 - **Story:**
 The app would encourage fitness amongst friends and peer in a closed social circle. The users would be motivated by friends to up their fitness and take part in challenges to earn their place in the leaderboard.
 - **Market:**
