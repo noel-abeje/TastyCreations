@@ -15,7 +15,7 @@ Recipies is an app that has hundreds of recipes from many different categories t
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:** 
+
 Cooking and Food application
 - **Mobile:**
 The app focuses on providing receipes of all types of food from around the world. It serves as a source of information for people who are beginners at cooking.
