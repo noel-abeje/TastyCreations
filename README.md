@@ -10,23 +10,23 @@
 
 ### Description
 
-Recipies is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from. 
+Recipies is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from to prepare at their own kitchen 
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:** 
-Food recpe application
+
+Cooking and Food application
 - **Mobile:**
-The app focuses on building a database of various recipes accessible from the convenience of a users phone.
+The app focuses on providing receipes of all types of food from around the world. It serves as a source of information for people who are beginners at cooking.
 - **Story:**
-The app would encourage fitness amongst friends and peer in a closed social circle. The users would be motivated by friends to up their fitness and take part in challenges to earn their place in the leaderboard.
+The app would encourage people from different walks of life to learn a significant life skill that will help them in life. It is a great resourse for beginners who are jsut learning to cook and also for international students away fromm home. This is help you make food that reminds yu of home.
 - **Market:**
-The app can be used by anyone interested in fitness and well being.
+The app can be used by anyone interested in cooking and food in general.
 - **Habit:**
-It forms an habit around fitness and would be used by user daily to track and improve fitness.
+It forms an habit around cooking and receipes that help yu eat healthier food.
 - **Scope:**
-There are challenges as we would be using GPS like features to track the walks/runs, also we would be building REST API's whice time frame.
+There are challenges as we would be using a feature where the people can upload their receipes and pictures of food they made.
 
 ## Product Spec
 
@@ -34,54 +34,43 @@ There are challenges as we would be using GPS like features to track the walks/r
 
 **Required Features**
 
-[X] Log In/Sign up 
-[X] Tracking your run/workout
-[X] Workout suggestion
-[] Workout Dashboard
-[] Streaks
-[] Ability to add friends
-[] Mainting Profile
+[X] Splash Screen
+[X] Database of recipes
+[X] Home Screen with a search bar
+[X] Fodd Types on Home Screen
+[X] Multiple Recycler views
+[X] Vegetarian and Vegan options
 
 **Stretch Features**
 
 * Sharing image and updates amongst friends
-* Calorie tracker for food
-* Interacting with users
+* Interaction with users
+* Uploading your own receipes
 
 ### 2. Screen Archetypes
 
-- Log In/Sign up
-  - Allow signup using google ID
-  - Database design
-  - Rest endpoint to create the entry in DB
 - Main Screen
-  - Workout
-    - UI to start and stop runs
-    - Use the GPS to track the run
-    - Rest API's to save the data to the associated user
-  - Followers
-    - Ability to add users as friends and see the friends stat 
+  - Receipes
+    - UI to view types of food items
+    - Meals API's to view the receipes associated with the app
+  - Receipes
+    - Ability to search receipes with a search bar 
   - Dashboard
-    - Ability to see your stats  
-  - Profile
-    - Ability to update the profile details with workout preferences and other details.  
+    - To view the receipes that yu clicked on
 
 ### 3. Navigation
 
 Login screen to Main Screen
 **Tab Navigation** (Tab to Screen)
 
-* Workout - Has workout details, like start runs, etc
-* Followers - Has friends list and ability to add friends
-* Dashboard - Has user stat/workout details
-* Profile - User profile screen
+* Main - Has different types food and receipes associated with the food
+* Favourites - Has receipes of food yu selected as favourite
+
 
 **Flow Navigation** (Screen to Screen)
 
-- Login Screen
-  - Navigate to Main screen on successful login
 - Main Screen
-  - Can Navigate between tabs (Workout, Followers, Dashboard, and Profile)
+  - Can Navigate between tabs ( The receipes , the food items)
 
 ## Wireframes
 
