@@ -1,4 +1,4 @@
-# Milestone 1 Recipes
+# Milestone 1 Tasty Creations
 
 ## Table of Contents
 
