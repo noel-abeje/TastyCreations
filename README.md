@@ -10,7 +10,7 @@
 
 ### Description
 
-Recipies is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from to prepare at their own kitchen 
+Tasty Creations is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from to prepare at their own kitchen 
 
 ### App Evaluation
 
